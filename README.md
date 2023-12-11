@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://gorgeous-produce-57c.notion.site/c95f6c2caada4755a9cc83b533be29e4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black"></a>
+<a href="https://gorgeous-produce-57c.notion.site/c95f6c2caada4755a9cc83b533be29e4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
