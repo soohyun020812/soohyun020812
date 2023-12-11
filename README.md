@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20my%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=2F363D&text=Welcome%20to%20my%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 <a href="https://gorgeous-produce-57c.notion.site/c95f6c2caada4755a9cc83b533be29e4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://selfnotes.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white"></a>
