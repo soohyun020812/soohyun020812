@@ -1,4 +1,5 @@
 ### 👋 Hi there 👋
+23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. “✍ʕ•ᴥ•oʔ
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
