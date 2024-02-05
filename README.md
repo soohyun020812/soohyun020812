@@ -1,5 +1,7 @@
 ### 👋 Hi there 👋
-23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. “✍ʕ•ᴥ•oʔ
+23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. “✍
+그 기간동안 총 3번의 프로젝트를 진행하게 되었습니다. 👩🏻‍💻
+현재 23년 12월부터 24년 4월까지 AI를 활용한 개발을 공부하고 있습니다. 🧠
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
