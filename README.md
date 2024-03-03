@@ -2,11 +2,11 @@
 **_23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. ✍_** <br>
 
 >**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
->**◾ 미니 프로젝트** <br>
+>**🔹 미니 프로젝트** <br>
 >**Java, JSP, Servlet, Spring, 신규가치 분석 및 설계** <br>
->**◾ 핵심 프로젝트** <br>
+>**🔹 핵심 프로젝트** <br>
 >**Machine Learning, Deep Learning, Cloud, 고객분석 및 기획** <br>
->**◾ 실전 프로젝트** <br>
+>**🔹 실전 프로젝트** <br>
 >이 기간동안 위와 같은 스킬을 쌓고 총 3번의 프로젝트와 한 번의 Kaggle 대회에 참여하였습니다. 👩🏻‍💻 <br>
 
 <hr>
@@ -14,9 +14,9 @@
 **_현재는 23년 12월부터 24년 4월까지 AI를 활용한 개발 공부를 진행하고 있습니다. 🧠_** <br>
 
 >**Python, HTML, CSS, Java Script** <br>
->**◾ HTML, CSS, JS 프로젝트 (개인 주제)** <br>
+>**🔹 HTML, CSS, JS 프로젝트 (개인 주제)** <br>
 >**Bootstrap, Django** <br>
->**◾ Django 프로젝트**
+>**🔹 Django 프로젝트**
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
