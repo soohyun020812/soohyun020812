@@ -1,5 +1,5 @@
 ### 👋 Hi there 👋
-23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. ✍ <br>
+**_23년 4월부터 11월동안 약 1,600시간을 개발에 몰두한 경험이 있습니다. ✍_** <br>
 
 >**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
 >**◾ 미니 프로젝트** <br>
@@ -11,7 +11,7 @@
 
 <hr>
 
->현재는 23년 12월부터 24년 4월까지 AI를 활용한 개발 공부를 진행하고 있습니다. 🧠 <br>
+**_현재는 23년 12월부터 24년 4월까지 AI를 활용한 개발 공부를 진행하고 있습니다. 🧠_** <br>
 
 >**Python, HTML, CSS, Java Script** <br>
 >**◾ HTML, CSS, JS 프로젝트 (개인 주제)** <br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
->**📫 How to reach me ** <br>
+**📫 How to reach me** <br>
 
 <a href="https://gorgeous-produce-57c.notion.site/c95f6c2caada4755a9cc83b533be29e4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://selfnotes.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff5a4a?style=for-the-badge&logo=Tistory&logoColor=white"></a>
