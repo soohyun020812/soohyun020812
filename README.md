@@ -13,8 +13,9 @@
 
 >현재는 23년 12월부터 24년 4월까지 AI를 활용한 개발 공부를 진행하고 있습니다. 🧠 <br>
 >**Python, HTML, CSS, Java Script** <br>
->**미니프로젝트 (개인 주제)** <br>
->**Bootstrap, Django**
+>**HTML, CSS, JS 미니프로젝트 (개인 주제)** <br>
+>**Bootstrap, Django** <br>
+>**Django 팀 프로젝트**
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
