@@ -14,8 +14,8 @@
 **_현재는 23년 12월부터 24년 4월까지 AI를 활용한 개발 공부를 진행하고 있습니다. 🧠_** <br>
 
 >**Python, HTML, CSS, Java Script** <br>
->**🔹 HTML, CSS, JS 프로젝트 (개인 주제)** <br>
->**Bootstrap, Django** <br>
+>**🔹 HTML, CSS, JS 프로젝트** <br>
+>**Bootstrap, Django, SQL** <br>
 >**🔹 Django 프로젝트**
 
 <!--
