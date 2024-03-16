@@ -16,7 +16,9 @@
 >**Python, HTML, CSS, Java Script** <br>
 >**🔹 HTML, CSS, JS 프로젝트** <br>
 >**Bootstrap, Django, SQL** <br>
->**🔹 Django 프로젝트**
+>**🔹 Django 프로젝트** <br>
+>**Django 심화, GitHub, AWS** <br>
+>**🔹 참여기업/팀별 포트폴리오 프로젝트**
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
