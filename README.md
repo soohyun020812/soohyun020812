@@ -17,7 +17,7 @@
 >**🔹 HTML, CSS, JS 프로젝트** <br>
 >**Bootstrap, Django, SQL** <br>
 >**🔹 Django 프로젝트** <br>
->**Django 심화, GitHub, AWS** <br>
+>**Django 심화, AWS** <br>
 >**🔹 참여기업/팀별 포트폴리오 프로젝트**
 
 <!--
