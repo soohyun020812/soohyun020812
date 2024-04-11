@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 <a href="mailto:mynilsh2002@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Email"></a>
 
 **💻 Tech Stack** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyun020812&show_icons=true&theme=graywhite)
