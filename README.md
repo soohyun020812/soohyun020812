@@ -3,10 +3,8 @@
 
 >**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
 >**🔹 미니 프로젝트** <br>
-
 >**Java, JSP, Servlet, Spring, 신규가치 분석 및 설계** <br>
 >**🔹 핵심 프로젝트** <br>
-
 >**Machine Learning, Deep Learning, Cloud, 고객분석 및 기획** <br>
 >**🔹 실전 프로젝트** <br>
 
@@ -18,10 +16,8 @@
 
 >**Python, HTML, CSS, Java Script** <br>
 >**🔹 HTML, CSS, JS 프로젝트** <br>
-
 >**Bootstrap, Django, SQL** <br>
 >**🔹 Django 프로젝트** <br>
-
 >**Django 심화, AWS, GitHub 심화** <br>
 >**🔹 참여기업/팀별 파이널 프로젝트** <br>
 
