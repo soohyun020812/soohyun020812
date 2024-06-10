@@ -21,6 +21,10 @@
 >**🔹 파이널 팀 프로젝트** <br>
 >이 기간동안 위와 같은 스킬을 쌓고 총 2번의 개인 프로젝트와 한 번의 팀 프로젝트를 진행하였습니다. 👥 <br>
 
+<hr>
+
+**_24년 04월부터 "더브레인에스"에서 인턴으로 일 하고 있습니다. 💻_** <br>
+
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
