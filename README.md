@@ -35,7 +35,11 @@
 
 **_보유한 자격증_** <br>
 
->**ADsP** <br>
+>**DIAT 워드프로세서** <br>
+>**DIAT 프리젠테이션** <br>
+>**ITQ 아래한글** <br>
+>**ITQ 한글파워포인트** <br>
+>**ADsP 데이터 분석 준전문가** <br>
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
