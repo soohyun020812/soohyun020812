@@ -29,7 +29,7 @@
 >**🔹 Teachable Machine 교재 제작** <br>
 >**Python** <br>
 >**🔹 Python 수업 보조** <br>
->이 기간동안 위와 같은 재택근무로 개발 교재를 직접 제작하였으며 실무 경험으로 수업 진행 및 보조 경험이 있습니다. 👥 <br>
+>이 기간동안 위와 같은 재택근무로 개발 교재를 직접 제작하였으며 실무 경험으로 수업 진행 및 보조 경험이 있습니다. 📖 <br>
 
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
