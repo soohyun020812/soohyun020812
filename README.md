@@ -42,6 +42,25 @@
 >**ITQ 한글파워포인트 A급** <br>
 >**ADsP 데이터 분석 준전문가** <br>
 
+name: Activity Box
+
+on:
+  schedule: 
+    - cron: '*/10 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: JasonEtco/activity-box@master
+        evn:
+          CH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: soohyun020812
+          GIST_ID: 0de14b404200811b7238fa5ff15e31cc
+
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
