@@ -71,3 +71,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{soohyun020812}?pet-id=1" width="1000" height="120"/>
 </a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soohyun020812&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/soohyun020812"
+  width="600"
+  height="300"
+/>
+</a>
