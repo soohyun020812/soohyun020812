@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyun020812&show_icons=true&theme=graywhite) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyun020812\&layout=compact)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soohyun020812&utm_content=farm">
+<center><a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soohyun020812&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/soohyun020812"
   width="400"
   height="200"
 />
-</a>
+</a><center>
