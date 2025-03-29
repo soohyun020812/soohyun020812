@@ -27,9 +27,9 @@
 **_24년 04월부터 24년 8월동안 약 4개월, 200시간을 "더브레인에스"에서 인턴으로 실무 경험이 있습니다. 💻_** <br>
 
 >**Teachable Machine, AI, Machine learning** <br>
->**🔹 Teachable Machine 교재 제작** <br>
+>**🔸 Teachable Machine 교재 제작** <br>
 >**Python** <br>
->**🔹 Python 수업 보조** <br>
+>**🔸 Python 수업 보조** <br>
 >이 기간동안 위와 같은 재택근무로 개발 교재를 직접 제작하였으며 실무 경험으로 수업 진행 및 보조 경험이 있습니다. 📖 <br>
 
 <hr>
