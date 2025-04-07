@@ -42,6 +42,8 @@
 >**ITQ 한글파워포인트 A급** <br>
 >**ADsP 데이터 분석 준전문가** <br>
 
+<hr>
+
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
