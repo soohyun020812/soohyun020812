@@ -44,6 +44,11 @@
 
 <hr>
 
+**🏅 경험한 내부, 외부 활동** <br>
+
+>**Kaggle 대회** <br>
+>**2025 취업박람회** <br>
+
 <!--
 **soohyun020812/soohyun020812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
