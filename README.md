@@ -1,6 +1,6 @@
 ### 👋🏻 Hi there 👋🏻
  
-**_23년 4월부터 23년 11월동안 약 7개월, 1,600시간을 빅데이터 개발에 몰두한 경험이 있습니다. ✍🏻_** <br>
+**_23년 4월부터 23년 11월동안 약 7개월, 1,600시간을 빅데이터 개발에 몰두한 경험이 있습니다. 🖋️_** <br>
 
 >**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
 >**🔹 미니 팀 프로젝트** <br>
