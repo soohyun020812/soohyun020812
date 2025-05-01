@@ -5,8 +5,8 @@
 주요 스택 및 프로젝트 경험은 다음과 같습니다._** <br>
 
 >**🔧 주요 기술 스택** <br>
->**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
 
+>**Python, DataBase, Python Library, HTML, CSS, WebCrawling, JavaScript, Django** <br>
 >**🔹 미니 팀 프로젝트** <br>
 >**Java, JSP, Servlet, Spring, 신규가치 분석 및 설계** <br>
 >**🔹 핵심 팀 프로젝트** <br>
@@ -20,8 +20,8 @@
 **_4개월(23.12 ~ 24.04, 약 700시간) 동안 AI를 활용한 개발에 집중했습니다._** <br>
 
 >**🔧 주요 기술 스택** <br>
->**Python, HTML, CSS, Java Script** <br>
 
+>**Python, HTML, CSS, Java Script** <br>
 >**🔹 HTML, CSS, JS 개인 프로젝트** <br>
 >**Bootstrap, Django, SQL** <br>
 >**🔹 Django 개인 프로젝트** <br>
@@ -35,8 +35,8 @@
 **_4개월(24.04 ~ 24.08, 약 200시간) 동안 인턴 개발 경험을 쌓았습니다._** <br>
 
 >**🔧 주요 기술 스택** <br>
->**Teachable Machine, AI, Machine learning** <br>
 
+>**Teachable Machine, AI, Machine learning** <br>
 >**🔸 Teachable Machine 교재 제작** <br>
 >**Python** <br>
 >**🔸 Python 수업 보조** <br>
